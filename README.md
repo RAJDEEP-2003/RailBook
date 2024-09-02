@@ -204,7 +204,7 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 9. Booked Ticket Information
 <img width="100%" alt="Show Booked Ticket Details" src="https://user-images.githubusercontent.com/34605595/232220935-654bda38-cbde-4203-84b8-3078a32ac6ec.png">
 
-10. Ticket Booking History
+10. Ticket Booking History 
 <img width="100%" alt="All Ticket Booking History" src="https://user-images.githubusercontent.com/34605595/232220491-3e7996cb-a54c-4375-a35a-6ab1d211a001.png">
 
 11. Fare Enquiry
